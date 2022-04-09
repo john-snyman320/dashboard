@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "firebase": "^4.0.0",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-count-to": "^0.8.0",
